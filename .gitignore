@@ -1,0 +1,17 @@
+# Only exclude unnecessary scan results (keep the sample file)
+# results/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Editor specific files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Backup files
+*.bak
+*.old
+*.tmp 
